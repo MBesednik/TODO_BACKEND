@@ -1,0 +1,85 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Task 1",
+      "status": [
+        {
+          "name": "To Do",
+          "selected": true
+        },
+        {
+          "name": "In Progress",
+          "selected": false
+        },
+        {
+          "name": "Done",
+          "selected": false
+        }
+      ],
+      "description": "opis 1",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Task 2",
+      "status": [
+        {
+          "name": "To Do",
+          "selected": true
+        },
+        {
+          "name": "In Progress",
+          "selected": false
+        },
+        {
+          "name": "Done",
+          "selected": false
+        }
+      ],
+      "description": "opis 2",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "title": "Task 3",
+      "status": [
+        {
+          "name": "To Do",
+          "selected": true
+        },
+        {
+          "name": "In Progress",
+          "selected": false
+        },
+        {
+          "name": "Done",
+          "selected": false
+        }
+      ],
+      "description": "opis 3",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "title": "Task 4",
+      "status": [
+        {
+          "name": "To Do",
+          "selected": true
+        },
+        {
+          "name": "In Progress",
+          "selected": false
+        },
+        {
+          "name": "Done",
+          "selected": false
+        }
+      ],
+      "description": "Proba proba",
+      "completed": false
+    }
+  ],
+  "task_id_counter": 5
+}
